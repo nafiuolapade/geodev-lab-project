@@ -1,0 +1,23 @@
+# My project brief
+## Part 1: The question
+Which offshore segments near the Lagos coast have seabed slopes and water depths suitable for a subsea cable or pipeline landing?
+## Part 2: Why it matters
+Subsea cables and pipeline are critical infrastructure landing on the Lagos coast, and sitingthem poorly risks construction failure, environmental change or disturbance of the existing marine use. They are expensive to relocate once construction starts. A preliminary screening of slope and depth could help identify lower-risk corridors before survey teams are commissioned, saving cost and reducing the chance of failed landings.
+## Part 3: The data needed
+- Offshore bathymetry (depth and slope) near Lagos coast
+- Lagos coastline and land use to identify landing sites and avoid built-up areas.
+- Existing marine infrastructures
+- Protected areas or mangroves along the coast
+## Part 4: Where each dataset comes from
+- Bathymetry — GEBCO
+(https://www.gebco.net)
+- Seabed slope derived from bathymetry
+(https://www.gebco.net/data_and_products/gridded_bathymetry_data/)
+- Coastline or land use — Natural Earth data
+(https://www.naturalearthdata.com)
+- Marine infrastructure — Geofabrik 
+(https://download.geofabrik.de/africa/nigeria.html)
+- Protected areas — Protected Planet (WDPA) 
+(https://www.protectedplanet.net)
+## Part 5: What I would build
+A suitability map of the Lagos coastline
